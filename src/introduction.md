@@ -16,13 +16,13 @@ Note: 8 weeks of live session + 1 extra week for final assignment submission.
 
 | Session  | Date | Topic(s)   | Materials | Video   |
 | -------- | ------------ | ------- | -------   | ------- |
-| 1        | 03/03        | Introduction to Distributed Systems | | |
-| 2        | 10/03        | Technical Design Documents: Writing and Reviewing | | |
-| 3        | 17/03        | CAP Theorem, Gossip and Consensus Protocols | | |
-| 4        | 24/03        | Distributed Database and Storage    | | |
-| 5        | 31/03        | Mid-Term Assignment Presentations, Consistency Models  | | |
-| 6        | 07/03        | Events, Queues, and Streams         | | |
-| 7        | 14/04        | TBC: (Load Testing and Security Topic)           | | |
+| 1        | 03/03        | Introduction to Distributed Systems + Assignment Brief | | |
+| 2        | 10/03        | CAP Theorem, Gossip and Consensus Protocols   | | |
+| 3        | 17/03        | Distributed Database and Storage + Technical Design Documents: Writing and Reviewing | | |
+| 4        | 24/03        | Mid-Term Assignment Presentations + Consistency Models| | |
+| 5        | 31/03        | Events, Queues, and Streams                   | | |
+| 6        | 07/03        | TBC: (Load Testing and Security Topic)        | | |
+| 7        | 14/04        | Distributed Systems Case Studies              | | |
 | 8        | 21/04        | End-Term Assignment Presentations, Common Systems Patterns and Design   | | |
 
 Final Assignment is due on 02/05 (Friday), more than one week after the final live session.

@@ -19,7 +19,7 @@ Note: 8 weeks of live session + 1 extra week for final assignment submission.
 | 1        | 03/03        | Introduction to Distributed Systems + Assignment Brief | | |
 | 2        | 10/03        | Databases, CAP Theorem, Gossip and Consensus Protocols   | | |
 | 3        | 17/03        | Distributed Databases + Technical Design Documents: Writing and Reviewing | | |
-| 4        | 24/03        | Mid-Term Assignment Presentations + Consistency Models| | |
+| 4        | 24/03        | Mid-Term Assignment Presentations + Handling Failures | | |
 | 5        | 31/03        | Events, Queues, and Streams                   | | |
 | 6        | 07/03        | Monitoring, Observability, and Load Testing        | | |
 | 7        | 14/04        | Distributed Systems Case Studies              | | |

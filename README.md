@@ -7,7 +7,7 @@ The content within this book is taught as part of our Backend course over at [op
 
 ## Curriculum Overview
 
-Coming soon.
+View the slides for Cohort #0 on [Google Drive][slides].
 
 ## Building the Book
 
@@ -24,3 +24,4 @@ visit [https://creativecommons.org/licenses/by-nc-sa/4.0/][cc]
 [1]: https://opencamp.cc
 [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [mdbook]: https://rust-lang.github.io/mdBook/
+[slides]: https://drive.google.com/drive/folders/1DYdLKXtAOnliy-pjsiim8JW99rSwe4_P?usp=sharing
